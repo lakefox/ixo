@@ -1,0 +1,42 @@
+{
+  "_from": "ixo",
+  "_id": "ixo@1.0.6",
+  "_inBundle": false,
+  "_integrity": "sha1-aa3CaLudn7Xzgp6YLbWDokQU9HA=",
+  "_location": "/ixo",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ixo",
+    "name": "ixo",
+    "escapedName": "ixo",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ixo/-/ixo-1.0.6.tgz",
+  "_shasum": "69adc268bb9d9fb5f3829e982db583a24414f470",
+  "_spec": "ixo",
+  "_where": "C:\\Users\\mason\\lakefox",
+  "author": {
+    "name": "M-a-s-o-n"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Simple Blockchain For JavaScript",
+  "keywords": [
+    "blockchain"
+  ],
+  "license": "MIT",
+  "main": "ixo.js",
+  "name": "ixo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.7"
+}
