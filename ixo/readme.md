@@ -1,1 +1,1 @@
-[Learn at ixojs.com](http://ixojs.bitballoon.com)
+[Learn](http://ixojs.bitballoon.com)
