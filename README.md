@@ -33,3 +33,7 @@ console.log(i.export());
 ```
 
 ### Break down
+
+``` javacript
+var ixo = require("ixo");
+```
