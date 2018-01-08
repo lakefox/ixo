@@ -40,8 +40,7 @@ var ixo = require("ixo");
 
 First things first you have to include the libary, luckly this is easy, just use require. (make sure ixo is installed first!)
 
+After you have the libary included you have to initiate the blockchain. We chose to do it this way because it allows you to create multiple blockchain instances in one Node.JS app. This object will be where you modify your blockchain.
 ``` javascript
 var i = new ixo();
 ```
-
-After you have the libary included you have to initiate the blockchain. We chose to do it this way because it allows you to create multiple blockchain instances in one Node.JS app. This object will be where you modify your blockchain.
