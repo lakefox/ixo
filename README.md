@@ -7,7 +7,7 @@ npm install ixo
 ```
 
 ### Basic Usage
-```
+``` javascript
 var ixo = require("ixo");
 
 //Int the ixo object
