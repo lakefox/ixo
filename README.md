@@ -34,7 +34,7 @@ console.log(i.export());
 
 ### Break down
 
-``` javacript
+``` javascript
 var ixo = require("ixo");
 ```
 
