@@ -5,3 +5,5 @@ ixo.js is a blockchain designed to be light weight and efficient. The purpose of
 ```
 npm install ixo
 ```
+
+### Basic Usage
