@@ -35,7 +35,6 @@ console.log(i.export());
 ### Break down
 
 First things first you have to include the libary, luckly this is easy, just use require. (make sure ixo is installed first!)
-
 ``` javascript
 var ixo = require("ixo");
 ```
