@@ -8,4 +8,26 @@ npm install ixo
 
 ### Basic Usage
 ```
+var ixo = require("ixo");
+
+//Int the ixo object
+var i = new ixo();
+
+//Create new block and put data in it
+i.block(0, "Some Data");
+i.block(0, "More Data");
+
+//Create new block and put data in it
+i.block(1, "Some Data");
+i.block(1, "More Data");
+
+//Sign each block
+i.sign(0, "0 password");
+i.sign(1, "1 password");
+
+//Read an item from the chain
+console.log(i.read(0, "0 password"));
+
+//Export the blockchain to a string
+console.log(i.export());
 ```
