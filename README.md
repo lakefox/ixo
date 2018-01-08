@@ -41,5 +41,7 @@ var ixo = require("ixo");
 First things first you have to include the libary, luckly this is easy, just use require. (make sure ixo is installed first!)
 
 ``` javascript
-
+var i = new ixo();
 ```
+
+After you have the libary included you have to initiate
