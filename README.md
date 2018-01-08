@@ -39,3 +39,7 @@ var ixo = require("ixo");
 ```
 
 First things first you have to include the libary, luckly this is easy, just use require. (make sure ixo is installed first!)
+
+``` javascript
+
+```
