@@ -66,5 +66,5 @@ Export and Read are mean for exactly what there name imply, they export and read
 console.log(i.export());
 >>> "h1RGQkdnYHIEYmEACrbxetxZaZaRKdkDKyaSGnGTiCkbs7Kh hPhhxbkXY3o3HDPz3ZkSriCGdzCy2USLkidKPIrIk1aPY1YG"
 
-i.read("h1RGQkdnYHIEYmEACrbxetxZaZaRKdkDKyaSGnGTiCkbs7Kh hPhhxbkXY3o3HDPz3ZkSriCGdzCy2USLkidKPIrIk1aPY1YG");
+x.read("h1RGQkdnYHIEYmEACrbxetxZaZaRKdkDKyaSGnGTiCkbs7Kh hPhhxbkXY3o3HDPz3ZkSriCGdzCy2USLkidKPIrIk1aPY1YG");
 ```
