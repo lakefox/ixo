@@ -50,7 +50,7 @@ i.block(0, "Some Data");
 i.block(0, "More Data");
 ```
 
-
+This is when the block get "signed" or encrypted, all the data in the block is insecure
 ``` javascript
 i.sign(0, "0 password");
 ```
