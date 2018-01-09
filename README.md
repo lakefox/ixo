@@ -43,3 +43,9 @@ After you have the libary included you have to initiate the blockchain. We chose
 ``` javascript
 var i = new ixo();
 ```
+
+Adding unsigned blocks to the chain is made easy with the block function. This stores the ASCII text data in a "block"
+``` javascript
+i.block(0, "Some Data");
+i.block(0, "More Data");
+```
