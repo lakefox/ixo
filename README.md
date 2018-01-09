@@ -60,3 +60,8 @@ With the read function you can decrypt a signed block anywhere on the chain.
 console.log(i.read(0, "0 password"));
 >>> ["Some Data","More Data"]
 ```
+
+
+``` javascript
+console.log(i.export());
+```
