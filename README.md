@@ -52,4 +52,5 @@ i.block(0, "More Data");
 
 
 ``` javascript
+i.sign(0, "0 password");
 ```
