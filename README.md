@@ -61,7 +61,7 @@ console.log(i.read(0, "0 password"));
 >>> ["Some Data","More Data"]
 ```
 
-
+Export and Read are mean for exactly what there name imply, they export and read the blockchain. Export can be used to save the chain to a file so you can make a hard copy of the data. Read can be used to restore a blockchain that you have prevously exported.
 ``` javascript
 console.log(i.export());
 >>> "h1RGQkdnYHIEYmEACrbxetxZaZaRKdkDKyaSGnGTiCkbs7Kh hPhhxbkXY3o3HDPz3ZkSriCGdzCy2USLkidKPIrIk1aPY1YG"
