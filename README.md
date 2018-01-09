@@ -50,7 +50,7 @@ i.block(0, "Some Data");
 i.block(0, "More Data");
 ```
 
-This is when the block get "signed" or encrypted, all the data in the block is insecure
+This is when the block get "signed" or encrypted, all the data in the block is insecure. You can have multiple blocks that are signed and unsigned on the chain but when you export the chain it will only export the signed blockchain, the rest of the data will stay in the chain till signed and exported.
 ``` javascript
 i.sign(0, "0 password");
 ```
