@@ -55,7 +55,7 @@ This is when the block get "signed" or encrypted, all the data in the block is i
 i.sign(0, "0 password");
 ```
 
-With the read function you can decrypt a block anywhere on the chain 
+With the read function you can decrypt a signed block anywhere on the chain. 
 ``` javascript
 console.log(i.read(0, "0 password"));
 ```
