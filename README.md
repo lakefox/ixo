@@ -64,4 +64,5 @@ console.log(i.read(0, "0 password"));
 
 ``` javascript
 console.log(i.export());
+i.read();
 ```
