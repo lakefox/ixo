@@ -64,5 +64,7 @@ console.log(i.read(0, "0 password"));
 
 ``` javascript
 console.log(i.export());
-i.read();
+>>> "h1RGQkdnYHIEYmEACrbxetxZaZaRKdkDKyaSGnGTiCkbs7Kh hPhhxbkXY3o3HDPz3ZkSriCGdzCy2USLkidKPIrIk1aPY1YG"
+
+i.read("h1RGQkdnYHIEYmEACrbxetxZaZaRKdkDKyaSGnGTiCkbs7Kh hPhhxbkXY3o3HDPz3ZkSriCGdzCy2USLkidKPIrIk1aPY1YG");
 ```
