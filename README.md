@@ -67,5 +67,5 @@ console.log(i.export());
 >>> "h1RGQkdnYHIEYmEACrbxetxZaZaRKdkDKyaSGnGTiCkbs7Kh hPhhxbkXY3o3HDPz3ZkSriCGdzCy2USLkidKPIrIk1aPY1YG"
 
 var x = new ixo();
-x.read("h1RGQkdnYHIEYmEACrbxetxZaZaRKdkDKyaSGnGTiCkbs7Kh hPhhxbkXY3o3HDPz3ZkSriCGdzCy2USLkidKPIrIk1aPY1YG");
+x.import("h1RGQkdnYHIEYmEACrbxetxZaZaRKdkDKyaSGnGTiCkbs7Kh hPhhxbkXY3o3HDPz3ZkSriCGdzCy2USLkidKPIrIk1aPY1YG");
 ```
